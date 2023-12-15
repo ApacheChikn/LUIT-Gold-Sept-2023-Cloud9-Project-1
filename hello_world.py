@@ -1,5 +1,1 @@
-"""
-Follow-along with Zaire
-"""
-
-print("Hello World!")
+print("Hello, World!")
