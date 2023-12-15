@@ -1,8 +1,8 @@
 # LUIT-Gold-Sept-2023-Cloud9-Project-1
 
-<p>🔴 This is a repository used to follow along in <em><strong>Level Up In Tech</strong></em> with Zaire.</p>
+<p>🔵 This is a repository used to follow along in <em><strong>Level Up In Tech</strong></em> with Zaire.</p>
 <p>⚪ I am in the <em><strong>Self Paced Program</strong></em> with Level Up In Tech.</p>
-<p>🔵 I was a student of <em>Gold-Sept-2023</em> cohort. 👋</p>
+<p>🔴 I was a student of <em>Gold-Sept-2023</em> cohort. 👋</p>
 
 ### <ins>Follow-along with Zaire</ins>:
 
