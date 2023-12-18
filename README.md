@@ -16,9 +16,9 @@
               <li>Session 1 ✔️</li>
               <li>Session 2 ✔️</li>
               <li>Session 3 ✔️</li>
-              <li>Session 4</li>
-              <li>Session 5</li>
-              <li>Session 6</li>
+              <li>Session 4 ✔️</li>
+              <li>Session 5 ✔️</li>
+              <li>Session 6 ✔️</li>
             </ul>
           </li>
         </ul>
